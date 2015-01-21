@@ -9,13 +9,13 @@ change and alter this plugin to your desires!
 1. Add plugin to your plugin folder
 2. Activate
 3. Check out `api.php` for the API possibilities
-4. Check out the branding options in `sw-ready.php` or use the filter explained below
+4. Check out the branding options in `sw-ready.php` or use the hook that is explained below
 4. Enjoy!
 
 ## Good to know
 
 As the plugin adds Studio Wolf branding to your /wp-admin/  you might want to change some things. A good hook to
-change some basic information that gets added is `sw_ready_settings`. Use it like so:
+change some basic information that gets added is `sw_ready_settings`. Paste the code below in your theme's functions.php.
 
 ```php
 function change_brand_settings($settings)
