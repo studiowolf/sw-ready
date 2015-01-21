@@ -8,7 +8,8 @@ change and alter this plugin to your desires!
 
 1. Add plugin to your plugin folder
 2. Activate
-3. Check out api.php for the possibilities
+3. Check out `api.php` for the API possibilities
+4. Check out the branding options in `sw-ready.php` or use the filter explained below
 4. Enjoy!
 
 ## Good to know
