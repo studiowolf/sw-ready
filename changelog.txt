@@ -1,0 +1,26 @@
+1.2.5
+- Added changelog.txt
+- Changed priority to executy rewrite_rules_array hook to very late. This way other plugins are allowe to do something with the page rewrite rules
+- Fixed incredible annoying bug regarding finding the right page parents
+- Fixed bug merging arguments for pagination
+- Moved style selector in TinyMCE to main toolbar
+- Removed active states for menu's when pagetype is 404 or search
+
+1.2.6
+- Activated 'extra' menu item again
+- Added get post parent function
+
+1.3.0
+- Added the possibility assign a parent page to user pages
+
+1.4.0
+- Taxonomy terms can now be tageted by a reference
+
+2.0.0
+- Merged the branding plugin with this plugin
+
+2.0.1
+- Fixed the TinyMCE toolbar for WP3.9
+
+2.0.2
+- Fixed author parent bug
