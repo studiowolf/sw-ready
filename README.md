@@ -1,7 +1,7 @@
 # sw-ready
 
 This plugin offers a basic set of functions that make it easier and more flexible to integrate Wordpress
-into your own custom theme. It also adds Studio Wolf branding to your /wp-admin/. You can
+into your own custom theme. It also adds Studio Wolf branding to your `/wp-admin/`. You can
 change and alter this plugin to your desires!
 
 ## Start
@@ -14,8 +14,8 @@ change and alter this plugin to your desires!
 
 ## Good to know
 
-As the plugin adds Studio Wolf branding to your /wp-admin/  you might want to change some things. A good hook to
-change some basic information that gets added is `sw_ready_settings`. Paste the code below in your theme's functions.php.
+As the plugin adds Studio Wolf branding to your `/wp-admin/`  you might want to change some things. A good hook to
+change some basic information that gets added is `sw_ready_settings`. Paste the code below in your theme's `functions.php`.
 
 ```php
 function change_brand_settings($settings)
