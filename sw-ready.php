@@ -2,7 +2,7 @@
 /*
 Plugin Name: SW Ready
 Plugin URI: http://www.studiowolf.nl/
-Description: Basic set of plugins to set Studio Wolf branding and adapted Wordpress behaviour.
+Description: Basic set of plugins to set Studio Wolf branding and adapted WordPress behaviour.
 Version: 2.0.2
 Author: Studio Wolf
 Author URI: http://www.studiowolf.nl/
@@ -88,7 +88,7 @@ class SWBasic
             define('SW_BASIC_ENABLE_LINKS', false);
         }
 
-        // Options to enable Wordpress news on the dashboard
+        // Options to enable WordPress news on the dashboard
         if (!defined('SW_BASIC_ENABLE_DASHBOARD_NEWS')) {
             define('SW_BASIC_ENABLE_DASHBOARD_NEWS', false);
         }

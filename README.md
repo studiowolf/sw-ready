@@ -1,6 +1,6 @@
 # sw-ready
 
-This plugin offers a basic set of functions that make it easier and more flexible to integrate Wordpress
+This plugin offers a basic set of functions that make it easier and more flexible to integrate WordPress
 into your own custom theme. It also adds Studio Wolf branding to your /wp-admin/. You can
 change and alter this plugin to your desires!
 

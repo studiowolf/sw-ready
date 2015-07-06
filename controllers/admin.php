@@ -115,7 +115,7 @@ class SWAdmin
 
 
     /**
-     * Customize the Wordpress dasboard
+     * Customize the WordPress dasboard
      *
      * @since  1.0
      * @todo   Remove specific branding and build hook for different brands

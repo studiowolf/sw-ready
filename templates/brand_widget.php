@@ -1,5 +1,5 @@
 
-<h2>Wordpress van <?php if($company['url']): ?><a target="_blank" href="<?php echo $company['url'] ?>"><?php endif; ?><?php echo $company['name']; ?><?php if($company['url']): ?></a><?php endif; ?></h2>
+<h2>WordPress van <?php if($company['url']): ?><a target="_blank" href="<?php echo $company['url'] ?>"><?php endif; ?><?php echo $company['name']; ?><?php if($company['url']): ?></a><?php endif; ?></h2>
 <p>Heb je hulp nodig? Of wil je een probleem melden? Neem direct contact op met de juiste persoon via de onderstaande gegevens:</p>
 <ul class="list">
     <?php if($contact['name']): ?>
